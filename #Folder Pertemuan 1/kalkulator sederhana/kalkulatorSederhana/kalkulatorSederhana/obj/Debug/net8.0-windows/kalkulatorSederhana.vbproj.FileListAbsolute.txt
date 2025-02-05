@@ -1,0 +1,16 @@
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\net8.0-windows\kalkulatorSederhana.exe
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\net8.0-windows\kalkulatorSederhana.deps.json
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\net8.0-windows\kalkulatorSederhana.runtimeconfig.json
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\net8.0-windows\kalkulatorSederhana.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\net8.0-windows\kalkulatorSederhana.pdb
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.Form1.resources
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.vbproj.GenerateResource.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.AssemblyInfoInputs.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.AssemblyInfo.vb
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.vbproj.CoreCompileInputs.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\refint\kalkulatorSederhana.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.pdb
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.genruntimeconfig.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\ref\kalkulatorSederhana.dll
