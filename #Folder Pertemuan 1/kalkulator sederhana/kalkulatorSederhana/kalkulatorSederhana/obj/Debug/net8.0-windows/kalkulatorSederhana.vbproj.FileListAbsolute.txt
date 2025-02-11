@@ -14,3 +14,4 @@ D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkula
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.pdb
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.genruntimeconfig.cache
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\ref\kalkulatorSederhana.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 1\kalkulator sederhana\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\net8.0-windows\kalkulatorSederhana.sourcelink.json

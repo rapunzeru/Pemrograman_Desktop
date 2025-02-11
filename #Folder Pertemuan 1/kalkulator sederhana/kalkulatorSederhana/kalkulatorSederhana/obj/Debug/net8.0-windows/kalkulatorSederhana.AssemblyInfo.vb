@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("kalkulatorSederhana"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09be975c394eeba12dc7f9e04abdc370c967f6d4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("kalkulatorSederhana"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("kalkulatorSederhana"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
