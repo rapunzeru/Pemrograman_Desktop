@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WallpaperChanger"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09be975c394eeba12dc7f9e04abdc370c967f6d4"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bcab68f66f12b7824d440711de58824fe9b1831"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WallpaperChanger"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WallpaperChanger"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
