@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("imageViewer"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("FileFinder"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fe8155e79cc6e572ac71f71f5f7e34de767cdf0"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("imageViewer"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("imageViewer"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("FileFinder"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("FileFinder"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

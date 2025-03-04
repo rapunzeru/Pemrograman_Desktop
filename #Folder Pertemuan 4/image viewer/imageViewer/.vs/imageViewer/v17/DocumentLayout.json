@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C7D14D-7AD3-4ABA-8D0E-FFBE284B0470}|imageViewer\\imageViewer.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 4\\image viewer\\imageviewer\\imageviewer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2C7D14D-7AD3-4ABA-8D0E-FFBE284B0470}|imageViewer\\imageViewer.vbproj|solutionrelative:imageviewer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C7D14D-7AD3-4ABA-8D0E-FFBE284B0470}|imageViewer\\imageViewer.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 4\\image viewer\\imageviewer\\imageviewer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2C7D14D-7AD3-4ABA-8D0E-FFBE284B0470}|imageViewer\\imageViewer.vbproj|solutionrelative:imageviewer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C7D14D-7AD3-4ABA-8D0E-FFBE284B0470}|imageViewer\\imageViewer.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 4\\image viewer\\imageviewer\\imageviewer\\imageviewer.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F2C7D14D-7AD3-4ABA-8D0E-FFBE284B0470}|imageViewer\\imageViewer.vbproj|solutionrelative:imageviewer\\imageviewer.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\imageViewer\\Form1.vb",
+              "RelativeDocumentMoniker": "imageViewer\\Form1.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\imageViewer\\Form1.vb",
+              "RelativeToolTip": "imageViewer\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:23:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\imageViewer\\Form1.vb",
+              "RelativeDocumentMoniker": "imageViewer\\Form1.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\imageViewer\\Form1.vb [Design]",
+              "RelativeToolTip": "imageViewer\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:23:16.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "imageViewer",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\imageViewer\\imageViewer.vbproj",
+              "RelativeDocumentMoniker": "imageViewer\\imageViewer.vbproj",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 4\\image viewer\\imageViewer\\imageViewer\\imageViewer.vbproj",
+              "RelativeToolTip": "imageViewer\\imageViewer.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-02-25T10:19:24.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
