@@ -3,11 +3,7 @@ D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkk
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\bin\Debug\net8.0-windows\SIParkkir.runtimeconfig.json
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\bin\Debug\net8.0-windows\SIParkkir.dll
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\bin\Debug\net8.0-windows\SIParkkir.pdb
-D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.Form1.resources
-D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.Form2.resources
-D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.Form3.resources
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.Form4.resources
-D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.Form5.resources
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.vbproj.GenerateResource.cache
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.GeneratedMSBuildEditorConfig.editorconfig
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.AssemblyInfoInputs.cache
@@ -19,3 +15,12 @@ D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkk
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.pdb
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.genruntimeconfig.cache
 D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\ref\SIParkkir.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.vbproj.AssemblyReference.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.frmLogin.resources
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\bin\Debug\net8.0-windows\MySql.Data.xml
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.vbproj.Up2Date
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.frmUtama.resources
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.vbproj.ResolveComReference.cache
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.frmLangganan.resources
+D:\kuliah\semester 6\progDesktop\Pemrograman_Desktop\#Folder Pertemuan 6\SIParkkir\SIParkkir\obj\Debug\net8.0-windows\SIParkkir.frmProfil.resources

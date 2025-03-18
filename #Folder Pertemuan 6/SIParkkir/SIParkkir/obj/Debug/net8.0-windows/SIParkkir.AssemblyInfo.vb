@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SIParkkir"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289d2ea23293b3ce6fe26a7764b757c654e7012f"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31fcb942c32effb05ddf97bbde4d56659ef525b4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SIParkkir"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SIParkkir"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
