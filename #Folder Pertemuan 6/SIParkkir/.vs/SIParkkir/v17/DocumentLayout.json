@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 6\\siparkkir\\siparkkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|solutionrelative:siparkkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 6\\siparkkir\\siparkkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|solutionrelative:siparkkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 6\\siparkkir\\siparkkir\\frmprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|solutionrelative:siparkkir\\frmprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 6\\siparkkir\\siparkkir\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|solutionrelative:siparkkir\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 6\\siparkkir\\siparkkir\\siparkkir.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|solutionrelative:siparkkir\\siparkkir.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|d:\\kuliah\\semester 6\\progdesktop\\pemrograman_desktop\\#folder pertemuan 6\\siparkkir\\siparkkir\\frmlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{65FD6E0F-912A-4BFA-AD61-0FE5333F1ADC}|SIParkkir\\SIParkkir.vbproj|solutionrelative:siparkkir\\frmlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmLogin.vb",
+              "RelativeDocumentMoniker": "SIParkkir\\frmLogin.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmLogin.vb",
+              "RelativeToolTip": "SIParkkir\\frmLogin.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T13:15:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmLogin.vb",
+              "RelativeDocumentMoniker": "SIParkkir\\frmLogin.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmLogin.vb [Design]",
+              "RelativeToolTip": "SIParkkir\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T13:15:23.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProfil.vb [Design]",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmProfil.vb",
+              "RelativeDocumentMoniker": "SIParkkir\\frmProfil.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmProfil.vb [Design]",
+              "RelativeToolTip": "SIParkkir\\frmProfil.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T13:15:19.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmUtama.vb",
+              "RelativeDocumentMoniker": "SIParkkir\\frmUtama.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmUtama.vb [Design]",
+              "RelativeToolTip": "SIParkkir\\frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T13:06:12.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SIParkkir",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\SIParkkir.vbproj",
+              "RelativeDocumentMoniker": "SIParkkir\\SIParkkir.vbproj",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\SIParkkir.vbproj",
+              "RelativeToolTip": "SIParkkir\\SIParkkir.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-05-01T12:51:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLaporan.vb [Design]",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmLaporan.vb",
+              "RelativeDocumentMoniker": "SIParkkir\\frmLaporan.vb",
+              "ToolTip": "D:\\kuliah\\semester 6\\progDesktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\SIParkkir\\SIParkkir\\frmLaporan.vb [Design]",
+              "RelativeToolTip": "SIParkkir\\frmLaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T12:47:19.565Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
