@@ -60,7 +60,7 @@ Public Class frmUtama
         Dim sql As String
         Dim harga As Integer = 0
         Dim nomor As String = String.Empty
-        pengguna = "anton"
+        pengguna = frmLogin.txtUsername.Text
         If e.KeyCode = Keys.F1 Then
             jns = "Motor"
         ElseIf e.KeyCode = Keys.F2 Then
@@ -146,23 +146,26 @@ UNIX_TIMESTAMP(waktu_masuk))/60/60)*" & Str(harga) & "," & Str(harga) & ") where
     End Sub
 
     Private Sub LaporanPendapatanToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles LaporanPendapatanToolStripMenuItem.Click
-        Dim sql As String = "select sum(harga) from tblparkir where DATE(waktu_masuk) = CURDATE() and DATE(waktu_keluar) = CURDATE()"
-        If myConn.State = ConnectionState.Closed Then
-            myConn.Open()
-        End If
-        If myCommand Is Nothing Then
-            myCommand = New MySqlCommand(sql, myConn)
-        Else
-            myCommand.CommandText = sql
-        End If
-        Dim hasil As Object = myCommand.ExecuteScalar
-        Dim total As String = ""
-        If hasil.Equals(DBNull.Value) Then
-            total = "0"
-        Else
-            total = hasil.ToString
-        End If
-        MsgBox("Total Pendapatan hari ini: Rp. " & total)
+        Dim frmLap As New frmLaporan
+        frmLap.Show()
+        Me.Hide()
+        'Dim sql As String = "select sum(harga) from tblparkir where DATE(waktu_masuk) = CURDATE() and DATE(waktu_keluar) = CURDATE()"
+        'If myConn.State = ConnectionState.Closed Then
+        '    myConn.Open()
+        'End If
+        'If myCommand Is Nothing Then
+        '    myCommand = New MySqlCommand(sql, myConn)
+        'Else
+        '    myCommand.CommandText = sql
+        'End If
+        'Dim hasil As Object = myCommand.ExecuteScalar
+        'Dim total As String = ""
+        'If hasil.Equals(DBNull.Value) Then
+        '    total = "0"
+        'Else
+        '    total = hasil.ToString
+        'End If
+        'MsgBox("Total Pendapatan hari ini: Rp. " & total)
     End Sub
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
